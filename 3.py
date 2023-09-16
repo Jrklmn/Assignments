@@ -6,6 +6,6 @@ b=a*60
 print(type(b))
 c=b*60
 value=round(c)
-print(type(b))
+print(type(c))
 print("the result using round :",value)
 print(second,"second is",a,"hours,",b,"minutes,",value,"seconds")
