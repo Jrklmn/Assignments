@@ -14,7 +14,7 @@ def score_grade(score):
     
 if __name__ == "__main__":
     try:
-        x=int(input("Enter Score: "))
+        x = int(input("Enter Score: "))
     except:
         print("Error! Please enter numeric input between 0 and 100")
     else:
