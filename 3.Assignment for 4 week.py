@@ -7,7 +7,7 @@ def num_divide3(x):
 
 if __name__ == "__main__":
     while True:
-        num=input("Enter a positive number: ")
+        num = input("Enter a positive number: ")
         if num == 'done':
             break
         try:
